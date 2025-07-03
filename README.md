@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shem Jaoko</h1>
-<h3 align="center">A machine that turns coffee into code</h3>
+<h3 align="center">React and NextJS Enthusiast</h3>
 
-- 🌱 I’m currently learning **React and TypeScript**
+- 🌱 I’m currently learning **TypeScript**
 
 - 📫 How to reach me **jaokoshem@gmail.com**
 
@@ -41,17 +41,12 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a> 
+  <a href="https://typescript-scm.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+  </a> 
+  <a href="https://nectjs-scm.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+  </a> 
 </p>
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shemjay&show_icons=true&locale=en&layout=compact" alt="shemjay" />
-</p>
 
-<p>
-  &nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shemjay&show_icons=true&locale=en" alt="shemjay" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shemjay&" alt="shemjay" />
-</p>
